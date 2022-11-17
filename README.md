@@ -26,7 +26,7 @@
     </a>
 </p>
 
-## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif](https://media.giphy.com/media/U9dj9DobaJdVdhbSD0/giphy.gif)" width="30px"> Team:
+## <img src="https://media.giphy.com/media/U9dj9DobaJdVdhbSD0/giphy.gif" width="30px"> Team:
     1. Shrijayanth S [TL] - 312819104070
     
     2. Sanjay H [TM1] -312819104065

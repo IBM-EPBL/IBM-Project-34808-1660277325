@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
 </a>
    <a href="https://www.python.org/">
-   <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =150>
+   <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =190>
   </a>
 
   <a href="https://www.ibm.com/cloud">

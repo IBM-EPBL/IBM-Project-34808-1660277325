@@ -1,6 +1,6 @@
 # IBM-Project-34808-1660277325
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
-## <h1 align="center">Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px"></h1>
+## <h1 align="center">AI-powered Nutrition Analyzer for Fitness Enthusiasts<img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px"></h1>
 <h4 align="center">A Revolutionary Project for the Agricultural Growth 🌷 Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
@@ -31,10 +31,10 @@ AI-powered Nutrition Analyzer for Fitness Enthusiasts
 </p>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Team:
-    1. Sree Ram U [TL] - 312819205040
+    1. Shrijayanth S [TL] - 312819205040
     
-    2. Mohammed Farook C [TM1] -312819205021
+    2. Sanjay H [TM1] -312819205021
     
-    3. Balaji M [TM2] - 312819205006
+    3. Lohit ST [TM2] - 312819205006
     
-    4. Pradeep V [TM3] - 312819205029
+    4. Vishnu Aravind R [TM3] - 312819205029

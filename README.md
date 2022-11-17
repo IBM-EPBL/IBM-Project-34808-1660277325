@@ -1,8 +1,6 @@
 # IBM-Project-34808-1660277325
 ## <h1 align="center">AI-powered Nutrition Analyzer for Fitness Enthusiasts<img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px"></h1>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
-</picture> </h4>
+  
 
 <p align="center">
 <a href="https://www.ibm.com/in-en">

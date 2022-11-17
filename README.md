@@ -26,11 +26,11 @@
     </a>
 </p>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Team:
-    1. Shrijayanth S [TL] - 312819205040
+## <img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif](https://media.giphy.com/media/U9dj9DobaJdVdhbSD0/giphy.gif)" width="30px"> Team:
+    1. Shrijayanth S [TL] - 312819104070
     
-    2. Sanjay H [TM1] -312819205021
+    2. Sanjay H [TM1] -312819104065
     
-    3. Lohit ST [TM2] - 312819205006
+    3. Lohit ST [TM2] - 312819104043
     
-    4. Vishnu Aravind R [TM3] - 312819205029
+    4. Vishnu Aravind R [TM3] - 312819104082

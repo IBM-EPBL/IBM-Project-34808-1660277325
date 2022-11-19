@@ -109,7 +109,7 @@ and calorie content.
   
      - .h5 files are the model files that are to be saved after model building.
   
- - IBM folder contains IBM deployment files.
+ 
 
   
- IBM Nalaiya Thiran| Agni College Of Technology
+ IBM Nalaiya Thiran | Agni College Of Technology

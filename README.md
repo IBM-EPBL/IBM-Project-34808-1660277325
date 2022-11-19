@@ -98,7 +98,7 @@ and calorie content.
  ![image](https://user-images.githubusercontent.com/78264969/192721993-1527fbc3-0bcb-4523-8537-f023b98d789d.png)
  ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Structure :
  ![image](https://lh3.googleusercontent.com/8sgI1NrM_aQjooig6y59TC81glpfmbZ4qz6jaq3yC65qKx1XDq8hB0t050nuI9S0cV0cWUr-kQklCpiQvUSiUMeCZrHGXsdaGz2klUPK2BDIKzb2Bq801FA30geCyLyrHPAF04uE)
- - The dataset folder contains two folders for the fruit and vegetable dataset which again contains a test and train folder, each of them have images of different diseases.
+ - The dataset folder contains two folders contains a test and train folder, each of them have images of different fruits.
 - The Flask folder has all the files necessary to build the flask application. 
 
      -  Templates folder has the HTML pages.
@@ -109,9 +109,6 @@ and calorie content.
   
      - .h5 files are the model files that are to be saved after model building.
   
-     - Precautions excel files contain the precautions for all kinds of diseases.
-  
- - Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
  - IBM folder contains IBM deployment files.
 
   

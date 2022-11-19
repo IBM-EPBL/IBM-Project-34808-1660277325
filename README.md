@@ -97,7 +97,7 @@ and calorie content.
  ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Technical Architecture : 
  ![image](https://user-images.githubusercontent.com/78264969/192721993-1527fbc3-0bcb-4523-8537-f023b98d789d.png)
  ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Structure :
- ![image](https://user-images.githubusercontent.com/78264969/193993919-df7c31a5-4d9e-4f67-b605-441597b45d92.png)
+ ![image](https://lh3.googleusercontent.com/8sgI1NrM_aQjooig6y59TC81glpfmbZ4qz6jaq3yC65qKx1XDq8hB0t050nuI9S0cV0cWUr-kQklCpiQvUSiUMeCZrHGXsdaGz2klUPK2BDIKzb2Bq801FA30geCyLyrHPAF04uE)
  - The dataset folder contains two folders for the fruit and vegetable dataset which again contains a test and train folder, each of them have images of different diseases.
 - The Flask folder has all the files necessary to build the flask application. 
 

@@ -26,7 +26,7 @@
     </a>
 </p>
 
-<img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">  Demo Video Project</a>
+<img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">   Demo Video Project</a>
 
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Team:
     1. Shrijayanth S [TL] - 312819104070
@@ -48,7 +48,7 @@ and calorie content.
   
  
   
-## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with 🛠️
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with 🛠
 ![image](https://user-images.githubusercontent.com/78264969/197322101-eec3176d-64f8-4c31-a791-7d4a791e632a.png)
 
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Objectives: 

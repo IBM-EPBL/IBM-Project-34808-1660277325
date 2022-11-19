@@ -48,8 +48,8 @@ and calorie content.
   
  
   
-## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with 🛠
-![image](https://user-images.githubusercontent.com/78264969/197322101-eec3176d-64f8-4c31-a791-7d4a791e632a.png)
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with tools
+![image](https://d1vwxdpzbgdqj.cloudfront.net/assets/aiml-pp-new/language-logos-mob-86e412da059ad22dc2176eb7b853c4555aaf85b0c495ce2a7bd11baa582f6f90.jpg)
 
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Objectives: 
         1. Preprocess the images.

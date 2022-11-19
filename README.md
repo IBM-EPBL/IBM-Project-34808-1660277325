@@ -45,9 +45,9 @@ this site, which are subsequently processed by a trained
 algorithm. The computer looks at the image and calculates the
 nutritional value of the fruits, such as their sugar, fibre, protein,
 and calorie content.
-  
- 
-  
+
+![image](https://i.pinimg.com/originals/9d/03/88/9d038829c79514fe116d33a2ef47a50e.jpg)
+     
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with tools
 ![image](https://d1vwxdpzbgdqj.cloudfront.net/assets/aiml-pp-new/language-logos-mob-86e412da059ad22dc2176eb7b853c4555aaf85b0c495ce2a7bd11baa582f6f90.jpg)
 

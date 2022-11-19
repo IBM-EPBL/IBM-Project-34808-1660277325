@@ -26,9 +26,9 @@
     </a>
 </p>
 
-<img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">Demo Video Project</a>
+<img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">  Demo Video Project</a>
 
-## <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"> Team:
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Team:
     1. Shrijayanth S [TL] - 312819104070
     
     2. Sanjay H [TM1] -312819104065
@@ -48,10 +48,10 @@ and calorie content.
   
  
   
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Built with 🛠️
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Built with 🛠️
 ![image](https://user-images.githubusercontent.com/78264969/197322101-eec3176d-64f8-4c31-a791-7d4a791e632a.png)
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Project Objectives: 
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Objectives: 
         1. Preprocess the images.
 
         2. Applying the CNN algorithm to the dataset.
@@ -61,7 +61,7 @@ and calorie content.
         4. You will be able to know how to find the accuracy of the model.
 
         5. You will be able to build web applications using the Flask framework.   
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Project Flow :
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Flow :
 - A web Application is built  where;
     - Farmers can interact with the portal build
     - Interacts with the user interface to upload images of diseased leaf
@@ -75,7 +75,7 @@ and calorie content.
     - Save the model and its dependencies.
     - Build a Web application using a flask that integrates with the model built.
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Prerequisites :
+## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Prerequisites :
 ## Anaconda Navigator :
 - Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here.
 [https://youtu.be/5mDYijMfSzs]
@@ -94,9 +94,9 @@ and calorie content.
        5. Highly scalability of computation.
  - Flask: Web framework used for building  Web applications.Watch the given below video to Install the necessary Packages.
  [https://youtu.be/akj3_wTploU]
- ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Technical Architecture : 
+ ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Technical Architecture : 
  ![image](https://user-images.githubusercontent.com/78264969/192721993-1527fbc3-0bcb-4523-8537-f023b98d789d.png)
- ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Project Structure :
+ ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Structure :
  ![image](https://user-images.githubusercontent.com/78264969/193993919-df7c31a5-4d9e-4f67-b605-441597b45d92.png)
  - The dataset folder contains two folders for the fruit and vegetable dataset which again contains a test and train folder, each of them have images of different diseases.
 - The Flask folder has all the files necessary to build the flask application. 

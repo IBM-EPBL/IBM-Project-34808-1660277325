@@ -26,7 +26,9 @@
     </a>
 </p>
 
-## <img src="https://media.giphy.com/media/U9dj9DobaJdVdhbSD0/giphy.gif" width="30px"> Team:
+<img src="https://media.giphy.com/media/SaQDphTeTNg90SPpmo/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">Demo Video Project</a>
+
+## <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"> Team:
     1. Shrijayanth S [TL] - 312819104070
     
     2. Sanjay H [TM1] -312819104065

@@ -38,7 +38,13 @@
     4. Vishnu Aravind R [TM3] - 312819104082
     
     ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Introduction :
- 
+  The project's main objective is to create a classification system
+for fruits based on their different characteristics, including colour,
+shape, and texture. Users may upload images of different fruits to
+this site, which are subsequently processed by a trained
+algorithm. The computer looks at the image and calculates the
+nutritional value of the fruits, such as their sugar, fibre, protein,
+and calorie content.
   
  
   

@@ -63,9 +63,9 @@ and calorie content.
         5. You will be able to build web applications using the Flask framework.   
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Project Flow :
 - A web Application is built  where;
-    ■ Users/Fitness Enthusiasts can interact with the portal build
-    ■ Interacts with the user interface to upload images of fruits and vegetables
-    ■ Our model built, analyses the fruit and gives nutrition details attributed to
+    - Users/Fitness Enthusiasts can interact with the portal build
+    - Interacts with the user interface to upload images of fruits and vegetables
+    - Our model built, analyses the fruit and gives nutrition details attributed to
 that specified fruit or vegetable. 
 - To accomplish the above task you must complete the below activities and tasks;
     - Download the dataset.

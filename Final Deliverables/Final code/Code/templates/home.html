@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+  <title>Nutrition Analysis</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+  <!-- Additional CSS Files -->
+  <link rel="stylesheet" href="/static/main.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+</head>
+
+<body>
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="main-nav">
+            <!-- ***** Logo Start ***** -->
+            <h1 class="logo">
+              Nutrition <span class="an">Analysis</span>
+            </h1>
+            <!-- ***** Logo End ***** -->
+
+            <!-- ***** Menu Start ***** -->
+            <ul class="nav">
+              <li><a href="{{ url_for('home')}}" class="active">Home</a></li>
+              <li><a href="{{ url_for('image')}}">Classify</a></li>
+            </ul>
+            <a class='menu-trigger'>
+              <span>Menu</span>
+            </a>
+            <!-- ***** Menu End ***** -->
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="page-content">
+
+          <!-- ***** Banner Start ***** -->
+          <div class="main-banner">
+            <div class="row">
+              <div class="col-lg-7">
+                <div class="header-text">
+                  <h6>Welcome To Nutrition Analyzer</h6>
+                  <h4><em>diet Food</em> is essential for <br> good living. </h4>
+                  <div class="main-button">
+                    <a href="{{ url_for('image')}}"> <b>Classify</b> </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- ***** Banner End ***** -->
+          <footer>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12">
+                  <p>Copyright © 2022 <a href="{{ url_for('home')}}">SSLVA</a> Nutrition. All rights reserved.
+                </div>
+              </div>
+            </div>
+          </footer>
+</body>
+
+</html>

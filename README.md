@@ -26,7 +26,7 @@
     </a>
 </p>
 
-## <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/GTtF7yB5gpU">   Demo Video Project</a>
+## <img src="https://media.giphy.com/media/UX5ovY9QQ1FOpaKtc8/giphy.gif" width="30px"><a href="https://youtu.be/8EUnvdKDTcQ">   Demo Video Project</a>
 
 ## <img src="https://media.giphy.com/media/nDmTGama5e9ZH6mlT3/giphy.gif" width="30px"> Team:
     1. Shrijayanth S [TL] - 312819104070
